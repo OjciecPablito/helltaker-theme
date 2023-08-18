@@ -19,7 +19,7 @@
 .theme-dark {
 /* Backdrop image which is shown behind the app. Can also be an HTML color. Falls back to accent color if invalid.
    To use an image from your computer, upload it somewhere first, copy its link, then paste it below. */
-  --dplus-backdrop: url(https://images.alphacoders.com/108/thumb-1920-1082847.png);
+  --dplus-backdrop: url(https://raw.githubusercontent.com/OjciecPablito/helltaker-theme/main/assets/modeus.png);
 
 /* Accent color, used to decorate the UI with colors. */
 --dplus-accent-color-hue: 0;
@@ -139,6 +139,6 @@ Set avatar/server radius to 50% to make them circular.
 --dplus-icon-server-list: 32px;
 
 /* The Home icon on the top left */
---dplus-icon-home-dark: url(https://plusinsta.github.io/discord-plus/assets/discord/home_dark.svg);
+--dplus-icon-home-dark: url(https://raw.githubusercontent.com/OjciecPablito/helltaker-theme/main/assets/helltaker-head.png);
 --dplus-icon-home-light: url(https://plusinsta.github.io/discord-plus/assets/discord/home_light.svg);
 }
